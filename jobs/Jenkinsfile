@@ -14,7 +14,7 @@ pipeline {
      
       steps {
           script {			
-           echo "Hola mundo"
+           sh "Hola mundo"
         }
       }
     }
